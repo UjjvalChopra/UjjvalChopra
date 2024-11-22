@@ -1,7 +1,5 @@
 # Hi there 👋
 
-![Ujjval Chopra](https://github.com/UjjvalChopra/UjjvalChopra/blob/main/image.jpeg)
-
 I’m **Ujjval Chopra**, a graduate student pursuing a **Master of Science in Computer Science** at **New York University (NYU) Courant**. 🎓  
 
 ### 🌟 About Me:
