@@ -9,8 +9,9 @@ I’m **Ujjval Chopra**, a graduate student pursuing a **Master of Science in Co
 
 ### 💡 What I’m Working On:
 - Debugging complex systems and optimizing workflows.
-- Exploring advanced applications of **Large Language Models (LLMs)**.
+- Exploring advanced applications of **Large Language Models (LLMs)** and building a **pico-LLM**.
 - Building robust infrastructure for **Data Analytics** projects.
+- Researching on a Machine Learning approach towards Alazheimer's at NYU Langone
 
 ### 🌱 Collaboration:
 Open to collaborating on **Data Analytics, Quantitative Strategies**, and **AI research projects**.
