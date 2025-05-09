@@ -14,7 +14,7 @@ I’m **Ujjval Chopra**, a graduate student pursuing a **Master of Science in Co
 - Researching on a Machine Learning approach towards Alazheimer's at NYU Langone
 
 ### 🌱 Collaboration:
-Open to collaborating on **Data Analytics, Quantitative Strategies**, and **AI research projects**.
+Open to collaborating on **Data Science,Consulting, Quantitative Strategies**, and **generative AI based projects**.
 
 ### 📫 How to Reach Me:
 - [LinkedIn](https://www.linkedin.com/in/ujjval-chopra/) | [Email](ujjval2002chopra@gmail.com)
