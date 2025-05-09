@@ -10,7 +10,7 @@ I’m **Ujjval Chopra**, a graduate student pursuing a **Master of Science in Co
 ### 💡 What I’m Working On:
 - Debugging complex systems and optimizing workflows.
 - Exploring advanced applications of **Large Language Models (LLMs)** and building a **pico-LLM**.
-- Building a robust Big Data Project for **Predictive Maintenance**.
+- Building a robust Big Data Science Project for **Predictive Maintenance** in Turbofan Projects.
 - Researching on a Machine Learning approach towards Alazheimer's at NYU Langone
 
 ### 🌱 Collaboration:
